@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10px 20px;
+}
+
+.up-down-input-container {
+  display: flex;
+  column-gap: 10px;
+  margin-bottom: 10px;
+}
+
+.up-down-input {
+  width: 200px;
+  height: 30px;
+  padding: 5px 10px;
+}
+
+.up-down-correct,
+.up-down-reset {
+  width: 60px;
+  cursor: pointer;
+}
