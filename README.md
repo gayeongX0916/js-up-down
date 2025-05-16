@@ -14,3 +14,5 @@ HTML, CSS, JavaScript만으로 만드는 Up&Down Game
 - HTML
 - CSS
 - JavaScript
+
+![image](https://github.com/user-attachments/assets/5678d314-8835-46fa-85da-b44e209bc945)
